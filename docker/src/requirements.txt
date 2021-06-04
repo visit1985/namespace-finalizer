@@ -1,0 +1,2 @@
+jsonformatter~=0.3.1
+kubernetes~=12.0.1
